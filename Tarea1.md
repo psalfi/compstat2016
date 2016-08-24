@@ -2,6 +2,7 @@
 * Tarea 1 Simulador de datos exponenciales
 * Profesor: Mauricio García Tec
 * Alumna: Paulina Lisett Salgado Figueroa
+* Clave: 160314
 
 ##Código desarrollado en R
 ````R
