@@ -1,6 +1,6 @@
 #Maestría en Ciencias de Datos
 * Tarea 1 Simulador de datos exponenciales
-* Profesor: Mauricio García Tec
+* Profesor: Mauricio Benjamin García Tec
 * Alumna: Paulina Lisett Salgado Figueroa
 * Clave: 160314
 
